@@ -46,8 +46,8 @@
   
   <h2>My GitHub Analytics 🔍</h2>
   <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suyeonsu&show_icons=true&include_all_commits=true&theme=swift"/>
-  <img height="600em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suyeonsu&show_icons=true&include_all_commits=true&theme=swift"/>
+  <img height="500em" src="./profile-3d-contrib/profile-green-animate.svg"/>
   </div>
 
 <br/>
