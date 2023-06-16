@@ -1,21 +1,46 @@
 ![suyeonkim](https://github.com/suyeonsu/suyeonsu/assets/54935106/1194f5ca-d606-4c27-bed9-134acce0d00d)
 
-<p align="center">
-  <b>Backend Developer</b> 👩‍💻 <br>
-  <b>I'm growing everyday</b> 💫
-</p>
-
-</br>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suyeonsu&show_icons=true&include_all_commits=true&theme=swift">
+  <h2>About me 🐚</h2>
+  Bachelor of Computer Science & Engineering, Incheon National Univ.
+  
+  Now I'm taking the Samsung Software Academy (SSAFY) 9th.  
+  I'm growing up everyday 🪴 !
+  
+  <h2>Technical Skills</h2>
+  <div>
+  <b>Back-end</b>
+
+  ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=&logoColor=white)
+  ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+  <b>Front-end</b>
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
+  ![html5](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![css3](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+  <b>Others</b>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC) 
+  ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black)
+  </div>
+  
+  <h2>My GitHub Analytics 🔍</h2>
+  <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suyeonsu&show_icons=true&include_all_commits=true&theme=swift"/>
+  <img height="600em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+  </div>
 </div>
 
-</br>
+<br/>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus7207">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeonsu&count_bg=%23555555title_bg=%23E7E7E7&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+<div align="center">
+  
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus7207"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeonsu&count_bg=%23555555title_bg=%23E7E7E7&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
