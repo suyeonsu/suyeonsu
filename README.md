@@ -9,7 +9,7 @@
   I'm growing up everyday 🪴 !
   <h4>Follow and Contact me 👇 </h4>
     <div>
-    <a href=https://www.acmicpc.net/user/tndus7207"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus7207"/>
+    <a href="https://www.acmicpc.net/user/tndus7207"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus7207"/></a>
     <a href="https://velog.io/@kimsen"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimsen"/></a>
     <a href="mailto:tndus0894@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=tndus0894@gmail.com"/></a>
     </div>
