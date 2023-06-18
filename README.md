@@ -7,11 +7,11 @@
   
   Now I'm taking the Samsung Software Academy (SSAFY) 9th.  
   I'm growing up everyday 🪴 !
-  <h4>Follow and Contact me 👇 </h4>
+  <h4>Follow and Contact me ! </h4>
     <div>
-    <a href="https://www.acmicpc.net/user/tndus7207"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus7207"/></a>
+<!--     <a href="https://www.acmicpc.net/user/tndus7207"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus7207"/></a> -->
     <a href="https://velog.io/@kimsen"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimsen"/></a>
-    <a href="mailto:tndus0894@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=tndus0894@gmail.com"/></a>
+    <a href="mailto:agew0423@daum.net"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=agew0423@daum.net"/></a>
     </div>
   </div>
   
@@ -36,6 +36,7 @@
 <b>Others</b>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black)
@@ -46,7 +47,7 @@
   
   <h2>My GitHub Analytics 🔍</h2>
   <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suyeonsu&show_icons=true&include_all_commits=true&theme=swift"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suyeonsu&show_icons=true&count_private=true&theme=flag-india"/>
   <img height="500em" src="./profile-3d-contrib/profile-green-animate.svg"/>
   </div>
 
