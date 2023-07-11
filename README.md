@@ -6,11 +6,11 @@
   Bachelor of Computer Science & Engineering, Incheon National Univ.
   
   Now I'm taking the Samsung Software Academy (SSAFY) 9th.  
-  I'm growing up everyday 🪴 !
-  <h4>Follow and Contact me ! </h4>
+  I'm growing up everyday  !
+  <h4>Follow and Contact me </h4>
     <div>
 <!--     <a href="https://www.acmicpc.net/user/tndus7207"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tndus7207"/></a> -->
-    <a href="https://velog.io/@kimsen"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kimsen"/></a>
+    <a href="https://suyeonsu.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://suyeonsu.github.io"/></a>
     <a href="mailto:agew0423@daum.net"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=agew0423@daum.net"/></a>
     </div>
   </div>
