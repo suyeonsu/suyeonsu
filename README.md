@@ -37,9 +37,7 @@
 <b>Others</b>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black)
 
   </div>
     
