@@ -3,7 +3,7 @@
 <div align="center">
   <h2>About me 🐚</h2>
   <div>
-  Bachelor of Computer Science & Engineering, Incheon National Univ.
+<!--   Bachelor of Computer Science & Engineering, Incheon National Univ. -->
   
   Now I'm taking the Samsung Software Academy (SSAFY) 9th.  
   I'm growing up everyday  !
