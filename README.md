@@ -1,13 +1,10 @@
 ![suyeonkim](https://github.com/suyeonsu/suyeonsu/assets/54935106/1194f5ca-d606-4c27-bed9-134acce0d00d)
 
 <div align="center">
-  <h2>About me 🐚</h2>
   <div>
-<!--   Bachelor of Computer Science & Engineering, Incheon National Univ. -->
   
-  Now I'm taking the Samsung Software Academy (SSAFY) 9th.  
   I'm growing up everyday  !
-  <h4>Follow and Contact me </h4>
+  <h4>Contact </h4>
     <div>
     <a href="https://suyeonsu.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://suyeonsu.github.io"/></a>
     <a href="mailto:agew0423@daum.net"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=agew0423@daum.net"/></a>
