@@ -1,9 +1,9 @@
 <div>
-  <a href="https://suyeonsu.github.io"
+  <a href="https://suyeonsu.tistory.com"
     ><img
-      src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://suyeonsu.github.io"
+      src="https://img.shields.io/badge/Blog-eb531f?style=flat-square&logo=Tistory&logoColor=white&link=https://suyeonsu.tistory.com"
   /></a>
-  <a href="mailto:agew0423@daum.net"
+  <a href="mailto:tndus0894@gmail.com"
     ><img
       src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=tndus0894@gmail.com"
   /></a>
@@ -12,7 +12,7 @@
 <br />
 
 #### Hi, there 👋  
-I'm Suyeon Kim, **backend developer** using **Java**  
+I'm Suyeon Kim, **backend developer**  
 
 <br />
 
